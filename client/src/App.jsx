@@ -1,5 +1,5 @@
 import Analytics from "./components/Analytics"
-import Cards from "./components/Cards"
+import Cards from "./components/MetricCards"
 import Table from "./components/Table"
 
 
